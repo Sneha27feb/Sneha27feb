@@ -1,4 +1,4 @@
- # Hi, I’m Sneha Roy
+ # Hi, I’m Sneha Roy 🙂
 - 👀 I’m interested in Full stack development and working on several SaaS product in my current organization. 
 - 🌱 I’m currently learning Artificial Learning and its subsets ML, DL, and NLP.
 - 💞️ I’m looking to collaborate on DevOps practices and open-source projects that can influence the society.
